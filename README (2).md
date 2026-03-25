@@ -16,7 +16,7 @@ By the end of this tutorial, you will understand:
 ```
 svm-kernel-tutorials/
 │
-├── NAHKUM_updated.ipynb          # Main Jupyter notebook (code + tutorial)
+├── NAHKUM.ipynb          # Main Jupyter notebook (code + tutorial)
 ├── svm_kernel_tutorial.pdf       # Written tutorial (PDF, under 2000 words)
 ├── svm_decision_boundaries.png   # Figure: decision boundaries for all four kernels
 ├── scaling_comparison.png        # Figure: before vs after feature scaling
@@ -48,7 +48,7 @@ pip install numpy pandas matplotlib scikit-learn
    jupyter notebook
    ```
 
-3. Open `NAHKUM_updated.ipynb` and run all cells (Kernel → Restart & Run All).
+3. Open `NAHKUM.ipynb` and run all cells (Kernel → Restart & Run All).
 
 The notebook will:
 - Generate the `make_moons` dataset
