@@ -16,7 +16,7 @@ By the end of this tutorial, you will understand:
 ```
 svm-kernel-tutorials/
 │
-├── spora_updated.ipynb        # Main Jupyter notebook (code + tutorial)
+├── HAHKUM.ipynb        # Main Jupyter notebook (code + tutorial)
 ├── svm_kernel_tutorial.pdf    # Written tutorial (PDF, under 2000 words)
 ├── svm_decision_boundaries.png  # Decision boundary figure
 ├── README.md                  # This file
@@ -46,7 +46,7 @@ pip install numpy pandas matplotlib scikit-learn
    jupyter notebook
    ```
 
-3. Open `spora_updated.ipynb` and run all cells (Kernel → Restart & Run All).
+3. Open `NAHKUM.ipynb` and run all cells (Kernel → Restart & Run All).
 
 The notebook will:
 - Generate the `make_moons` dataset
