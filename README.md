@@ -18,9 +18,9 @@ svm-kernel-tutorials/
 │
 ├── NAHKUM.ipynb          # Main Jupyter notebook (code + tutorial)
 ├── svm_kernel_tutorial.pdf       # Written tutorial (PDF, under 2000 words)
-├── svm_decision_boundaries.png   # Figure: decision boundaries for all four kernels
-├── scaling_comparison.png        # Figure: before vs after feature scaling
-├── rbf_hyperparams.png           # Figure: RBF gamma and C hyperparameter sensitivity
+                                  # Figure: decision boundaries for all four kernel
+                                  # Figure: before vs after feature scaling
+                                  # Figure: RBF gamma and C hyperparameter sensitivity
 ├── README.md                     # This file
 └── LICENSE                       # MIT Licence
 ```
